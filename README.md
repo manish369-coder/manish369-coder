@@ -2,7 +2,7 @@
 - 👀 I’m interested in web designing and developing
 - 🌱 I’m currently learning MERN stck and different technologys to like babe, ava and many more
 - 💞️ I’m looking for internships and jobs to enhance my skills
-- 📫 How to reach me emaail me at bairagimanish222@gmail.com
+- 📫 How to reach me email me at bairagimanish222@gmail.com
 - ⚡ Fun fact: i don't drink coffe because 
 
 <!---
